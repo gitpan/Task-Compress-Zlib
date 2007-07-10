@@ -1,0 +1,6 @@
+Revision history for Perl extension Task::Compress::Zlib.
+
+0.01  Tue Jul 10 02:28:34 2007
+	- original version; created by h2xs 1.23 with options
+		-AXcfn Task::Compress::Zlib
+
